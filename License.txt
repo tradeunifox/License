@@ -1,2 +1,2 @@
-Monvil, monvil@example.com, API-X1Y2Z3, ABCD-1234-EFGH, 5H
+Monvil, monvil@example.com, API-X1Y2Z3, ABCD-1234-EFGH, 5hour
 JohnDoe, john@example.com, API-ALPHA1, XYZT-9876-POIU, 10min
